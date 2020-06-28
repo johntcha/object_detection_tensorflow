@@ -7,6 +7,7 @@ What we want here is to distinguish apples from the rest of the object on the we
 ![alt text](https://github.com/johntcha/object_detection_tensorflow/blob/master/apple_detection_and_recognition.JPG?raw=true)
 
 Credits:
+
 https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/
 https://github.com/tensorflow/models/tree/master/research/object_detection
 https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
