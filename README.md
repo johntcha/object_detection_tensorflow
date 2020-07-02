@@ -6,6 +6,10 @@ What we want here is to distinguish apples from the rest of the object on the we
 
 ![alt text](https://github.com/johntcha/object_detection_tensorflow/blob/master/apple_detection_and_recognition.JPG?raw=true)
 
+## Total loss
+
+We are getting here a total loss of 0,17 ~ 0,16 for a total of 1000 steps
+
 Credits:
 
 https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/
