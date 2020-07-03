@@ -8,7 +8,9 @@ What we want here is to distinguish apples from the rest of the object on the we
 
 ## Total loss
 
-We are getting here a total loss of 0,17 ~ 0,16 for a total of 1000 steps
+We are getting here a total loss of ~ 0,10 for a total of 1000 steps
+
+![alt text](https://github.com/johntcha/object_detection_tensorflow/blob/master/total_loss.JPG?raw=true)
 
 Credits:
 
