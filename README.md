@@ -4,7 +4,7 @@ The objective of this project is to detect and recognize apples through the webc
 
 What we want here is to distinguish apples from the rest of the object on the webcam with an accuracy over 75%.
 
-![alt text](https://github.com/johntcha/object_detection_tensorflow/blob/master/apple_detection_and_recognition.JPG?raw=true)
+![alt text](https://github.com/johntcha/object_detection_tensorflow/blob/master/apple_recognition.JPG?raw=true)
 
 ## Total loss
 
